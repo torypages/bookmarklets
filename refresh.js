@@ -5,4 +5,4 @@ function b64EncodeUnicode(str) {
 }
 
 
-window.location.href = "https://rawgit.com/torypages/bookmarklets/master/refresh.html?url=" + b64EncodeUnicode(window.location.href)
+window.location.href = "//rawgit.com/torypages/bookmarklets/master/refresh.html?url=" + b64EncodeUnicode(window.location.href)
