@@ -11,7 +11,6 @@ javascript:(()=>{
   var bing = "http://www.microsofttranslator.com/bv.aspx?from=&to=en&a=";
   window.location.href = bing + window.location.href;
   })();
-
   ```
 
 
