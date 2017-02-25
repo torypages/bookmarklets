@@ -3,7 +3,7 @@
 To use use these bookmarklets, copy them, then in Chrome right click the bookmakrs bar, click add page, in the URL textbox paste what was copied add a nice nice name, then you are done.
 
 
-## Side-by-side text translation from French
+## Side-by-side text translation to English
 Bing offers a really nice side-by-side translation of webpages, this opens the current page using this side-by-side translation service.
 
 ```
