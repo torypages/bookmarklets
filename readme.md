@@ -8,8 +8,10 @@ Bing offers a really nice side-by-side translation of webpages, this opens the c
 
 ```
 javascript:(()=>{
-  window.location.href = "http://www.microsofttranslator.com/bv.aspx?from=&to=en&a=" + window.location.href
+  var bing = "http://www.microsofttranslator.com/bv.aspx?from=&to=en&a=";
+  window.location.href = bing + window.location.href;
   })();
+
   ```
 
 
