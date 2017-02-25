@@ -3,6 +3,15 @@
 To use use these bookmarklets, copy them, then in Chrome right click the bookmakrs bar, click add page, in the URL textbox paste what was copied add a nice nice name, then you are done.
 
 
+## Side by side English translation from French
+Bing offers a really nice side-by-side translation of webpages, this opens the current page using this side by side translation service.
+
+```
+javascript:(()=>{
+  window.location.href = "http://www.microsofttranslator.com/bv.aspx?from=&to=en&a=" + window.location.href
+  })();
+  ```
+
 
 ## Page Refresher
 
